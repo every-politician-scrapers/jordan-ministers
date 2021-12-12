@@ -8,19 +8,25 @@ class MemberList
   class Member
     def name
       Name.new(
-        full:     noko.css('h4').first.text.gsub('&nbsp', ' ').tidy,
-        prefixes: %w[Prime Minister H.E.Dr H.E.Mr H.E.Eng. H.E HE .H.E.Dr H.E.Prof Eng. Mr.]
+        full:     fullname,
+        prefixes: %w[Prime Minister H.E.Dr H.E.Mrs H.E.Mr H.E.Eng. H.E HE .H.E.Dr H.E.Prof Eng. Mr.]
       ).short
     end
 
     def position
-      noko.css('h3').first.text.tidy
+      noko.xpath('preceding::h3[1]').text.tidy
+    end
+
+    private
+
+    def fullname
+      noko.text.gsub('&nbsp', ' ').tidy
     end
   end
 
   class Members
     def member_container
-      noko.css('.ministercont')
+      noko.css('#Container h4')
     end
   end
 end
