@@ -1,0 +1,148 @@
+{
+  "title": "Yousef Huneiti",
+  "pageID": 61352463,
+  "categories": [
+    "Living people",
+    "Jordanian generals",
+    "1959 births",
+    "People from Amman"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Major General Yousef Huneiti (يوسف الحنيطي) is the current Chairman of the Joint Chiefs of Staff of the Jordanian Armed Forces.",
+              "links": [
+                {
+                  "text": "Chairman of the Joint Chiefs of Staff",
+                  "type": "internal",
+                  "page": "Chairman of the Joint Chiefs of Staff of the Jordanian Armed Forces"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jordanian Armed Forces"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Yousef Huneiti"
+                ]
+              }
+            },
+            {
+              "text": "Huneiti was appointed to this position on 24 July 2019."
+            },
+            {
+              "text": "Huneiti is the first Jordanian Air Force commander to be appointed Army Chief.",
+              "links": [
+                {
+                  "text": "Jordanian Air Force",
+                  "type": "internal",
+                  "page": "Royal Jordanian Air Force"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1959",
+          "month": "3",
+          "day": "2",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Yousef Huneiti"
+          },
+          "image": {
+            "text": "File:Yousef Huneiti, Chairman of the Joint Chiefs of Staff of the Jordan Armed Forces.jpeg"
+          },
+          "caption": {
+            "text": "Yousef Huneiti on 7 February 2019 while commander of Royal Jordanian Air Force"
+          },
+          "native_name": {
+            "text": "يوسف الحنيطي"
+          },
+          "native_name_lang": {
+            "text": "Arabic"
+          },
+          "birth_date": {
+            "text": "March 2, 1959"
+          },
+          "birth_place": {
+            "text": "Amman, Jordan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amman"
+              },
+              {
+                "type": "internal",
+                "page": "Jordan"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "Jordan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jordan"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Royal Jordanian Air Force",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Royal Jordanian Air Force"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1978–present"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.almamlakatv.com/news/%D8%A7%D9%84%D9%84%D9%88%D8%A7%D8%A1-%D9%8A%D9%88%D8%B3%D9%81-%D8%A7%D9%84%D8%AD%D9%86%D9%8A%D8%B7%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A7-%D9%84%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%A3%D8%B1%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9-22856",
+          "title": "اللواء يوسف الحنيطي رئيسا لهيئة الأركان المشتركة",
+          "access-date": "24 July 2019",
+          "date": "24 July 2019",
+          "work": "Al-Mamlaka TV",
+          "language": "ar",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.aa.com.tr/en/middle-east/jordan-s-king-appoints-new-head-of-armed-forces-/1540527",
+          "title": "Jordan's King appoints new head of armed forces",
+          "website": "Anadolu Agency",
+          "date": "24 July 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.janes.com/article/90161/jordanian-military-gets-new-chief",
+          "title": "Jordanian military gets new chief",
+          "work": "Janes",
+          "access-date": "21 September 2019",
+          "date": "30 July 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

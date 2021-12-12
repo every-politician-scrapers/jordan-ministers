@@ -1,0 +1,154 @@
+{
+  "title": "Tawfiq Kreishan",
+  "pageID": 26127063,
+  "categories": [
+    "1947 births",
+    "Living people",
+    "Jordanian politicians",
+    "Members of the House of Representatives (Jordan)",
+    "Members of the Senate of Jordan",
+    "Municipal affairs ministers of Jordan",
+    "Parliamentary affairs ministers of Jordan",
+    "Government ministers of Jordan",
+    "Environment ministers of Jordan",
+    "Deputy prime ministers of Jordan",
+    "University of Jordan faculty",
+    "Al al-Bayt University faculty",
+    "Beirut Arab University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Minister of Municipal Affairs Tawfiq Kreishan (Arabic : توفيق كريشان ) (born 1947) is a Jordanian politician serving as Deputy Prime Minister and Minister of Municipal Affairs in Bisher Al-Khasawneh's Cabinet since 12 October 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Arabic"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bisher Al-Khasawneh's Cabinet"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Tawfiq Kreishan"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He graduated in accounting and business administration from Beirut Arab University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Beirut Arab University"
+                }
+              ]
+            },
+            {
+              "text": "He was a member of the Senate, and was minister of Parliamentary affairs twice.",
+              "links": [
+                {
+                  "text": "Senate",
+                  "type": "internal",
+                  "page": "Senate (Jordan)"
+                }
+              ]
+            },
+            {
+              "text": "He was also minister of Municipal Affairs five times.",
+              "links": [
+                {
+                  "text": "Municipal Affairs",
+                  "type": "internal",
+                  "page": "Municipal and Rural Affairs"
+                }
+              ]
+            },
+            {
+              "text": "The first time he became a minister was in 1996."
+            },
+            {
+              "text": "Before that he became a member of Parliament five times; twice in the Lower house, and three times in the Senate."
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Tawfiq Mahmoud Hussein Kreishan"
+          },
+          "image": {
+            "text": "https://images.app.goo.gl/D3gwFBY5tQjs276X6"
+          },
+          "office": {
+            "text": "Minister of Municipal Affairs"
+          },
+          "term_start": {
+            "text": "12 October 2021"
+          },
+          "birth_date": {
+            "text": "1947",
+            "number": 1947
+          },
+          "birth_place": {
+            "text": "Ma'an 🇯🇴",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ma'an"
+              },
+              {
+                "text": "🇯🇴",
+                "type": "internal",
+                "page": "jordan"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Beirut Arab University 🇱🇧",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Beirut Arab University"
+              },
+              {
+                "text": "🇱🇧",
+                "type": "internal",
+                "page": "lebanon"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.jordantimes.com/news/local/royal-decree-approves-new-cabinet-headed-khasawneh",
+          "archive-url": "https://web.archive.org/web/20201015193245/https://www.jordantimes.com/news/local/royal-decree-approves-new-cabinet-headed-khasawneh",
+          "title": "Royal Decree approves new Cabinet headed by Khasawneh",
+          "publisher": "The Jordan Times",
+          "date": "13 October 2020",
+          "archive-date": "15 October 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    }
+  ]
+}
