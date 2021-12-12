@@ -1,1 +1,4 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
+Q100377210,,,male,,,,,Q55498292,Jordan's Minister of State for Media Affairs,2020-10-12,Q100377210-9e0037e6-49b6-8f80-bafe-9b5eec04f8a6
+Q4747014,Amjad Adaileh,Amjad Adaileh,male,1962-01-01,9,,,Q55498292,Jordan's Minister of State for Media Affairs,2019-11-07,Q4747014-b6e4dd18-44a9-ace1-bcb6-c1c562a1e825
+Q55127874,Mothanna Gharaibeh,Mothanna Gharaibeh,male,1980-01-01,9,,,Q108307110,Minister of Information,2018-06-14,Q55127874-89f49550-4965-cc01-c49f-3f8881307f81
