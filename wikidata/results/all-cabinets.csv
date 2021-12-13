@@ -1,1 +1,9 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q4665985,Abdullah Ensour's cabinet,,,2012-01-01,9,,,2013-01-01,9,Q5015522,Cabinet of Jordan,,,,,,,,,Q15931027,Second cabinet of Abdullah Ensour
+,Q28716345,Rashid Tali’a first cabinet,,,1921-04-11,11,,,1921-06-23,11,Q5015522,Cabinet of Jordan,,,,,,,,,Q64744424,Rashid Tali’a second cabinet
+,Q64744424,Rashid Tali’a second cabinet,,,1921-07-05,11,,,1921-08-05,11,Q5015522,Cabinet of Jordan,,,,,,,Q28716345,Rashid Tali’a first cabinet,,
+,Q17014574,Fayez al-Tarawneh's second cabinet,2012-05-02,11,,,2012-10-11,11,,,Q640506,cabinet,,,,,,,,,,
+,Q15931027,Second cabinet of Abdullah Ensour,2013-04-23,11,2013-01-01,9,2016-06-01,11,,,Q5015522,Cabinet of Jordan,,,Q4665985,Abdullah Ensour's cabinet,,,Q4665985,Abdullah Ensour's cabinet,,
+,Q24885061,Hani Al-Mulki's cabinet,2016-06-01,11,,,2016-09-20,11,,,Q5015522,Cabinet of Jordan,,,,,,,,,,
+,Q54869475,Omar Razzaz's Cabinet,2018-06-14,11,,,2020-10-12,11,,,Q5015522,Cabinet of Jordan,,,,,Q100261677,Bisher Al-Khasawneh Cabinet,,,,
+,Q100261677,Bisher Al-Khasawneh Cabinet,2020-10-12,11,,,,,,,Q5015522,Cabinet of Jordan,,,Q54869475,Omar Razzaz's Cabinet,,,,,,
