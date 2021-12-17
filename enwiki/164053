@@ -443,8 +443,12 @@
             "text": "January 30, 1962"
           },
           "birth_place": {
-            "text": "Amman, Jordan",
+            "text": "Shmeisani, Amman, Jordan",
             "links": [
+              {
+                "type": "internal",
+                "page": "Shmeisani"
+              },
               {
                 "type": "internal",
                 "page": "Amman"
