@@ -14,8 +14,7 @@
     "Members of the Senate of Jordan",
     "Presidents of the Senate of Jordan",
     "Members of the House of Representatives (Jordan)",
-    "Speakers of the House of Representatives (Jordan)",
-    "Al-Fayez family"
+    "Speakers of the House of Representatives (Jordan)"
   ],
   "sections": [
     {
@@ -118,6 +117,10 @@
         }
       ],
       "templates": [
+        {
+          "description": "Jordanian politician",
+          "template": "short description"
+        },
         {
           "year": "1952",
           "month": "12",
