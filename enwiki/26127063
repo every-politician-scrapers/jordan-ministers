@@ -129,24 +129,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.jordantimes.com/news/local/royal-decree-approves-new-cabinet-headed-khasawneh",
-          "archive-url": "https://web.archive.org/web/20201015193245/https://www.jordantimes.com/news/local/royal-decree-approves-new-cabinet-headed-khasawneh",
-          "title": "Royal Decree approves new Cabinet headed by Khasawneh",
-          "publisher": "The Jordan Times",
-          "date": "13 October 2020",
-          "archive-date": "15 October 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
