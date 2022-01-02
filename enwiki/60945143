@@ -204,37 +204,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.alaraby.co.uk/politics/من-هو-بشر-هاني-الخصاونة-رئيس-الوزراء-الأردني-الجديد؟",
-          "title": "من هو بشر هاني الخصاونة رئيس الوزراء الأردني الجديد؟",
-          "publisher": "The New Arab",
-          "date": "8 October 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2017",
-          "title": "New ministers",
-          "url": "https://www.jordantimes.com/sites/default/files/users/emrani/new%20ministers12017.pdf",
-          "url-status": "live",
-          "access-date": "14 February 2021",
-          "website": "Jordan Times",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "author": "T. Balzacq",
-          "title": "The External Dimension of EU Justice and Home Affairs: Governance, Neighbours, Security",
-          "url": "https://books.google.com/books?id=C4yHDAAAQBAJ&pg=PA104",
-          "date": "25 June 2009",
-          "publisher": "Palgrave Macmillan UK",
-          "isbn": "978-0-230-23391-1",
-          "page": "104",
-          "template": "citation",
-          "type": "book"
-        }
       ]
     }
   ]

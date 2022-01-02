@@ -41,29 +41,6 @@
             }
           ]
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.jordantimes.com/news/local/new-amman-mayor-pledges-fair-and-responsible%E2%80%99-governance",
-          "title": "New Amman mayor pledges ‘fair and responsible’ governance",
-          "date": "2017-08-21",
-          "website": "Jordan Times",
-          "language": "en",
-          "access-date": "2018-12-23",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://globalparliamentofmayors.org/new-member-yousef-al-shawarbeh-amman-jordan/",
-          "title": "New Member: Yousef Al-Shawarbeh - Amman, Jordan",
-          "last": "globa0yvjsy",
-          "date": "2018-06-08",
-          "website": "Global Parliament of Mayors",
-          "language": "en-US",
-          "access-date": "2018-12-23",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

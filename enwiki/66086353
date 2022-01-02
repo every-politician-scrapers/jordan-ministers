@@ -112,26 +112,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "date": "13 October 2020",
-          "title": "Who is in Jordan's new Cabinet?",
-          "url": "https://www.thenationalnews.com/world/mena/who-is-in-jordan-s-new-cabinet-1.1092535",
-          "url-status": "live",
-          "website": "The National News",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "13 October 2020",
-          "title": "Royal Decree approves new Cabinet headed by Khasawneh",
-          "url": "http://jordantimes.com/news/local/royal-decree-approves-new-cabinet-headed-khasawneh",
-          "url-status": "live",
-          "website": "The Jordan Times",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
