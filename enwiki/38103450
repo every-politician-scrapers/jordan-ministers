@@ -1,0 +1,34 @@
+{
+  "title": "Template:Cabinets of Jordan",
+  "pageID": 38103450,
+  "categories": [
+    "Jordan politics and government templates"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "autocollapse}"
+          ],
+          "template": "{state"
+        },
+        {
+          "name": "Cabinets of Jordan",
+          "title": "Cabinets of Jordan",
+          "listclass": "hlist",
+          "group1": "1921–1946 Emirate of Transjordan",
+          "list1": "* Rashid Tali’a\n* Mazhar Raslan I\n* 'Ali Rida Basha al-Rikabi I\n* Mazhar Raslan II\n* Hasan Khalid Abu al-Huda I\n* 'Ali Rida Basha al-Rikabi II\n* Hasan Khalid Abu al-Huda II\n* Abdallah Sarraj\n* Ibrahim Hashem I\n* Tawfik Abu al-Huda I\n* Samir al-Rifai I\n* Ibrahim Hashem II",
+          "group2": "1946–Present Hashemite Kingdom of Jordan",
+          "list2": "* Ibrahim Hashem II\n* Samir al-Rifai II\n* Tawfik Abu al-Huda II\n* Sa`id al-Mufti I\n* Samir al-Rifai III\n* Tawfik Abu al-Huda III\n* Fawzi al-Mulki\n* Tawfik Abu al-Huda IV\n* Sa`id al-Mufti II\n* Hazza' al-Majali I\n* Ibrahim Hashem III\n* Samir al-Rifai IV\n* Sa`id al-Mufti III\n* Ibrahim Hashem IV\n* Sulayman al-Nabulsi\n* Husayin al-Khalidi\n* Ibrahim Hashem V\n* Samir al-Rifai V\n* Hazza' al-Majali III\n* Bahjat Talhouni I\n* Wasfi al-Tal I\n* Samir al-Rifai VI\n* Hussein ibn Nasser I\n* Bahjat Talhouni II\n* Wasfi al-Tal II\n* Hussein ibn Nasser II\n* Saad Jumaa\n* Bahjat Talhouni III\n* Abdelmunim al-Rifai I\n* Bahjat Talhouni IV\n* Abdelmunim al-Rifai II\n* Mohammad Daoud Al-Abbasi\n* Ahmad Toukan\n* Wasfi al-Tal III\n* Ahmad al-Lawzi\n* Zaid al-Rifai I\n* Mudar Badran I\n* Abdelhamid Sharaf\n* Kassim al-Rimawi\n* Mudar Badran II\n* Ahmad Obeidat\n* Zaid al-Rifai II\n* Zaid ibn Shaker I\n* Mudar Badran III\n* Taher al-Masri I\n* Zaid ibn Shaker II\n* Abdelsalam al-Majali I\n* Zaid ibn Shaker III\n* Abdul Karim al-Kabariti\n* Abdelsalam al-Majali II\n* Fayez al-Tarawneh I\n* Abdelraouf al-Rawabdeh\n* Ali Abu al-Ragheb\n* Faisal al-Fayez\n* Adnan Badran\n* Marouf al-Bakhit I\n* Nader al-Dahabi\n* Samir Rifai\n* Marouf al-Bakhit II\n* Awn Shawkat Al-Khasawneh\n* Fayez al-Tarawneh II\n* Ensour I\n* Ensour II\n* Hani Al-Mulki I\n* Hani Al-Mulki II\n* Omar Razzaz\n* Bisher Al-Khasawneh",
+          "template": "navbox"
+        },
+        {
+          "template": "collapsible option"
+        }
+      ]
+    }
+  ]
+}
