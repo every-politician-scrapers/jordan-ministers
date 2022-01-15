@@ -1,0 +1,618 @@
+{
+  "title": "Central Bank of Jordan",
+  "pageID": 656249,
+  "categories": [
+    "Central banks",
+    "Economy of Jordan",
+    "Divisions and subsidiaries of the prime ministry (Jordan)",
+    "1964 establishments in Jordan",
+    "Banks established in 1964"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Central Bank of Jordan (Arabic: البنك المركزي الاردني) is the central bank of Jordan whose main duties include the release and distribution of the Jordanian currency and the maintenance of a national reserve of gold and foreign currencies.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Arabic"
+                },
+                {
+                  "text": "central bank",
+                  "type": "internal",
+                  "page": "central bank"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jordan"
+                },
+                {
+                  "text": "Jordanian currency",
+                  "type": "internal",
+                  "page": "Jordanian dinar"
+                },
+                {
+                  "text": "gold",
+                  "type": "internal",
+                  "page": "gold"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Central Bank of Jordan"
+                ]
+              }
+            },
+            {
+              "text": "The bank also maintains and insures the safety of the banking environment in Jordan.",
+              "links": [
+                {
+                  "text": "banking",
+                  "type": "internal",
+                  "page": "banking"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Central Bank of Jordan",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "bank_name_in_local": {
+            "text": "البنك المركزي الاردني"
+          },
+          "image_1": {
+            "text": "Central Bank of Jordan Logo.png"
+          },
+          "image_title_1": {
+            "text": "Logo"
+          },
+          "image_width_1": {
+            "text": "200px"
+          },
+          "established": {
+            "text": "1964",
+            "number": 1964
+          },
+          "ownership": {
+            "text": "100% state ownership",
+            "links": [
+              {
+                "text": "state ownership",
+                "type": "internal",
+                "page": "state ownership"
+              }
+            ]
+          },
+          "reserves": {
+            "text": "15 020 million USD"
+          },
+          "headquarters": {
+            "text": "Amman 🇯🇴",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amman"
+              },
+              {
+                "text": "🇯🇴",
+                "type": "internal",
+                "page": "jordan"
+              }
+            ]
+          },
+          "president": {
+            "text": "Ziad Fariz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ziad Fariz"
+              }
+            ]
+          },
+          "leader_title": {
+            "text": "Governor"
+          },
+          "bank_of": {
+            "text": "Jordan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jordan"
+              }
+            ]
+          },
+          "currency": {
+            "text": "Jordanian Dinar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jordanian Dinar"
+              }
+            ]
+          },
+          "website": {
+            "text": "Official website",
+            "links": [
+              {
+                "text": "Official website",
+                "type": "external",
+                "site": "http://www.cbj.gov.jo"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Foundation",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jordan set out preparations to establish the Central Bank of Jordan (CBJ) in the late 1950s."
+            },
+            {
+              "text": "The Law of the CBJ was enacted in 1959."
+            },
+            {
+              "text": "Thereafter, its operational procedures were commenced on the first day of October 1964."
+            },
+            {
+              "text": "The CBJ succeeded the Jordan Currency Board which had been established in 1950."
+            },
+            {
+              "text": "The capital of the CBJ, which is totally owned by the government, was increased gradually, from one million to 18 million Jordanian Dinars."
+            },
+            {
+              "text": "The CBJ enjoys the status of an independent and autonomous corporate body,  although its capital is owned entirely by the government."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Objectives and functions",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The law establishing the CBJ stipulates that \"the objectives of the Central Bank shall be to maintain monetary stability in the Kingdom, to ensure the convertibility of the Jordanian Dinar, and to promote the sustained growth of the Kingdom's economy in accordance with the general economic policy of the government.\""
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "To achieve these objectives, the CBJ's functions include:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Issuing and regulating bank notes and coins",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The CBJ is the sole issuer of the Jordanian currency.",
+              "links": [
+                {
+                  "text": "Jordanian currency",
+                  "type": "internal",
+                  "page": "Jordanian dinar"
+                }
+              ]
+            },
+            {
+              "text": "The CBJ ensures the availability of bank notes and coins to meet the needs of the national economy, and maintains an adequate inventory of these bank notes and coins."
+            },
+            {
+              "text": "The CBJ also re-issues the Jordanian currency and replaces damaged, soiled, and mutilated bank notes."
+            },
+            {
+              "text": "In addition, the CBJ issues commemorative coins."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Maintaining and managing the Kingdom's reserves of gold and foreign exchange",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The CBJ is responsible for determining the suitable investment opportunities as well as setting ratios and components of reserves to ensure their safety, liquidity, and profitability, as these reserves constitute a cornerstone in the stability of the Jordanian Dinar exchange rate."
+            },
+            {
+              "text": "To fulfil this task, the CBJ adopts a flexible investment policy that is compatible with the ongoing developments in foreign exchange and international financial markets."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Acting as a banker and fiscal agent to the government and public institutions",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The CBJ acts as a banker and fiscal agent to the government and public institutions, as it maintains their revenue and expenditure accounts, makes transfers, opens letters of credit, manages and implements loan and trade agreements, and extends credit to the treasury."
+            },
+            {
+              "text": "In addition, the CBJ issues and manages public debt securities on behalf of the government and public institutions in Jordan."
+            },
+            {
+              "text": "Likewise, the CBJ administers, on behalf of the government, Jordan’s subscriptions in international and regional financial institutions, and manages and implements payment agreements between the government and other countries."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Acting as a banker to banks and specialized credit institutions",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The CBJ maintains banks’ deposits, extends credit to them through advances and rediscounts, and furnishes banks with credit risk information, custody, and electronic clearing services."
+            },
+            {
+              "text": "Besides, the CBJ, sells to and buys from banks, both treasury bills and foreign exchange necessary to cover their external payment needs."
+            },
+            {
+              "text": "Furthermore, the CBJ issues licenses authorizing banks to operate and branch in Jordan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Maintaining the safety of the banking system",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The CBJ supervises the banking system to ensure its soundness, and protects depositors and shareholders."
+            },
+            {
+              "text": "In doing so, the CBJ focuses on increasing the paid up capital, improving the capital adequacy ratio, and expanding the scope of the application of international auditing and accounting standards related to solvency, assets, profitability, liquidity and management."
+            },
+            {
+              "text": "Moreover, the CBJ stresses the importance of continuous education and training of banks’ employees so that they keep up to date with developments in the financial market."
+            },
+            {
+              "text": "Furthermore, the CBJ performs on-site and off-site surveillance of licensed banks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Advising the government on the formulation and implementation of fiscal and economic policies",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The CBJ proposes, upon its initiative or upon government request, specific suggestions and recommendations related to the prevailing economic, financial and monetary conditions."
+            },
+            {
+              "text": "Besides, it participates in the formulation of economic policies, particularly, in relation to economic development plans."
+            },
+            {
+              "text": "Furthermore, the CBJ has a distinctive role in the regular consultations between Jordanian authorities and international financial organizations, in particular, those related to economic and structural adjustment programs adopted since 1989.",
+              "links": [
+                {
+                  "text": "structural adjustment",
+                  "type": "internal",
+                  "page": "structural adjustment"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Managing monetary problems and participating in containing local economic problems",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The CBJ, pursuant to its legal powers, adopts procedures and measures to deal with economic problems to avoid their adverse effects on the Jordanian economy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Regulating credit",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The CBJ regulates the quantity, quality, and cost of credit to meet the requirements of economic development and monetary stability."
+            },
+            {
+              "text": "Monetary policy tools available to the CBJ to regulate credit include open market operations, the reserve requirement ratio and the discount rate."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Other roles",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In addition to the above-mentioned functions, the CBJ has effectively participated in the establishment of a number of financial institutions and corporations, such as Amman Stock Exchange, Jordan Mortgage Refinance Company, Jordan Loan Guarantee Corporation, Deposit Insurance Corporation, all of which have played an evident role in supporting economic development efforts in Jordan.",
+              "links": [
+                {
+                  "text": "",
+                  "type": "external",
+                  "site": "http://www.jlgc.com"
+                },
+                {
+                  "type": "internal",
+                  "page": "Amman Stock Exchange"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jordan Mortgage Refinance Company"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jordan Loan Guarantee Corporation"
+                },
+                {
+                  "type": "internal",
+                  "page": "Deposit Insurance Corporation"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Governors",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "2022–present: Adel al-Sharkas"
+          },
+          {
+            "text": "2012–2022: Ziad Fariz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ziad Fariz"
+              }
+            ]
+          },
+          {
+            "text": "2011-2012: Mohammed Said Shahin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohammed Said Shahin"
+              }
+            ]
+          },
+          {
+            "text": "2010-2011: Faris Abdel Hamid Sharaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Faris Abdel Hamid Sharaf"
+              }
+            ]
+          },
+          {
+            "text": "2001-2010: Umayya Toukan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Umayya Toukan"
+              }
+            ]
+          },
+          {
+            "text": "1996-2000: Ziad Fariz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ziad Fariz"
+              }
+            ]
+          },
+          {
+            "text": "1989-1995: Mohammed Said Nabulsi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohammed Said Nabulsi"
+              }
+            ]
+          },
+          {
+            "text": "1985-1989: Hussein Al-Qasim",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hussein Al-Qasim"
+              }
+            ]
+          },
+          {
+            "text": "1973-1985: Mohammed Said Nabulsi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohammed Said Nabulsi"
+              }
+            ]
+          },
+          {
+            "text": "1963-1973: Khalil Al-Salem",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Khalil Al-Salem"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.cbj.gov.jo/pages.php?menu_id=182&local_type=0&local_id=0&local_details=0&local_details1=0&localsite_branchname=CBJ",
+          "archive-url": "https://web.archive.org/web/20150923201027/http://www.cbj.gov.jo/pages.php?menu_id=182&local_type=0&local_id=0&local_details=0&local_details1=0&localsite_branchname=CBJ",
+          "url-status": "dead",
+          "archive-date": "2015-09-23",
+          "title": "Previous Governors",
+          "publisher": "CBJ",
+          "accessdate": "2015-09-23",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Banks",
+            "Jordan"
+          ],
+          "template": "portal"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Jordanian dinar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jordanian dinar"
+              }
+            ]
+          },
+          {
+            "text": "Ministry of Finance (Jordan)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ministry of Finance (Jordan)"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "ar",
+            "en"
+          ],
+          "template": "in lang"
+        },
+        {
+          "template": "central banks"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "region": "Jordan",
+          "template": "coord missing"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Central Bank of Jordan official site",
+            "links": [
+              {
+                "text": "Central Bank of Jordan official site",
+                "type": "external",
+                "site": "http://www.cbj.gov.jo/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
