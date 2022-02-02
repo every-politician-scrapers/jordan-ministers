@@ -55,11 +55,12 @@
               "text": "He resigned after being criticized for not being reformist enough."
             },
             {
-              "text": "He previously served as Defence Minister and is close to the king.",
+              "text": "He previously served as defence minister and is close to the king.",
               "links": [
                 {
+                  "text": "defence minister",
                   "type": "internal",
-                  "page": "Defence Minister"
+                  "page": "defence minister"
                 },
                 {
                   "text": "king",
