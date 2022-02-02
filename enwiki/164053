@@ -323,10 +323,44 @@
           "template": "birth date and age"
         },
         {
+          "list": [
+            "Jordan"
+          ],
+          "template": "army"
+        },
+        {
           "template": "jordanian royal family"
         }
       ],
       "infoboxes": [
+        {
+          "embed": {
+            "text": "yes"
+          },
+          "allegiance": {
+            "text": "🇯🇴 Jordan",
+            "links": [
+              {
+                "text": "Jordan",
+                "type": "internal",
+                "page": "jordan"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1982–present"
+          },
+          "rank": {
+            "text": "Field Marshal",
+            "links": [
+              {
+                "text": "Field Marshal",
+                "type": "internal",
+                "page": "Jordanian military ranks"
+              }
+            ]
+          }
+        },
         {
           "name": {
             "text": "Abdullah II"
