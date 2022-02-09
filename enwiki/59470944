@@ -41,6 +41,12 @@
             }
           ]
         }
+      ],
+      "templates": [
+        {
+          "description": "Mayor of Amman, Jordan",
+          "template": "short description"
+        }
       ]
     }
   ]
