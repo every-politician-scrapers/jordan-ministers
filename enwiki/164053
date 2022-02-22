@@ -286,7 +286,18 @@
               ]
             },
             {
-              "text": "The 2021 Pandora Papers leak and the 2022 Credit Suisse leak revealed that Abdullah maintained a vast empire of wealth that he disguised through offshore companies and tax havens."
+              "text": "The 2021 Pandora Papers leak and the 2022 Credit Suisse leak revealed that Abdullah maintained a vast empire of wealth that he disguised through offshore companies and tax havens.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pandora Papers"
+                },
+                {
+                  "text": "Credit Suisse leak",
+                  "type": "internal",
+                  "page": "Suisse secrets"
+                }
+              ]
             }
           ]
         }
@@ -375,7 +386,7 @@
             "text": "Abdullah in 2020"
           },
           "succession": {
-            "text": "King of Jordan",
+            "text": "4th King of Jordan",
             "links": [
               {
                 "type": "internal",
