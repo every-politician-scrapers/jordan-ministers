@@ -313,6 +313,10 @@
           "links": []
         },
         {
+          "small": "yes",
+          "template": "pp-blp"
+        },
+        {
           "template": "good article"
         },
         {
@@ -386,7 +390,7 @@
             "text": "Abdullah in 2020"
           },
           "succession": {
-            "text": "4th King of Jordan",
+            "text": "King of Jordan",
             "links": [
               {
                 "type": "internal",
@@ -399,6 +403,9 @@
           },
           "coronation": {
             "text": "9 June 1999"
+          },
+          "cor-type": {
+            "text": "Enthronement"
           },
           "predecessor": {
             "text": "Hussein",
