@@ -1,119 +1,12 @@
 {
-  "title": "Yousef Huneiti",
-  "pageID": 61352463,
-  "categories": [
-    "Living people",
-    "Jordanian generals",
-    "1959 births",
-    "People from Amman"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Major General Yousef Huneiti (يوسف الحنيطي) is the current Chairman of the Joint Chiefs of Staff of the Jordanian Armed Forces.",
-              "links": [
-                {
-                  "text": "Chairman of the Joint Chiefs of Staff",
-                  "type": "internal",
-                  "page": "Chairman of the Joint Chiefs of Staff of the Jordanian Armed Forces"
-                },
-                {
-                  "type": "internal",
-                  "page": "Jordanian Armed Forces"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Yousef Huneiti"
-                ]
-              }
-            },
-            {
-              "text": "Huneiti was appointed to this position on 24 July 2019."
-            },
-            {
-              "text": "Huneiti is the first Jordanian Air Force commander to be appointed Army Chief.",
-              "links": [
-                {
-                  "text": "Jordanian Air Force",
-                  "type": "internal",
-                  "page": "Royal Jordanian Air Force"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1959",
-          "month": "3",
-          "day": "2",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Yousef Huneiti"
-          },
-          "image": {
-            "text": "File:Yousef Huneiti, Chairman of the Joint Chiefs of Staff of the Jordan Armed Forces.jpeg"
-          },
-          "caption": {
-            "text": "Yousef Huneiti on 7 February 2019 while commander of Royal Jordanian Air Force"
-          },
-          "native_name": {
-            "text": "يوسف الحنيطي"
-          },
-          "native_name_lang": {
-            "text": "Arabic"
-          },
-          "birth_date": {
-            "text": "March 2, 1959"
-          },
-          "birth_place": {
-            "text": "Amman, Jordan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Amman"
-              },
-              {
-                "type": "internal",
-                "page": "Jordan"
-              }
-            ]
-          },
-          "allegiance": {
-            "text": "Jordan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jordan"
-              }
-            ]
-          },
-          "branch": {
-            "text": "Royal Jordanian Air Force",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Royal Jordanian Air Force"
-              }
-            ]
-          },
-          "serviceyears": {
-            "text": "1978–present"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Yousef Huneiti",
+  "image": "File:Yousef Huneiti, Chairman of the Joint Chiefs of Staff of the Jordan Armed Forces.jpeg",
+  "caption": "Yousef Huneiti on 7 February 2019 while commander of Royal Jordanian Air Force",
+  "native_name": "يوسف الحنيطي",
+  "native_name_lang": "Arabic",
+  "birth_date": "March 2, 1959",
+  "birth_place": "Amman, Jordan",
+  "allegiance": "Jordan",
+  "branch": "Royal Jordanian Air Force",
+  "serviceyears": "1978–present"
 }

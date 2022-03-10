@@ -1,118 +1,16 @@
 {
-  "title": "Nayef Al-Fayez",
-  "pageID": 66086353,
-  "categories": [
-    "Year of birth missing (living people)",
-    "Government ministers of Jordan",
-    "Brigham Young University alumni",
-    "Living people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Nayef Himiedi Al-Fayez is a Jordanian minister and politician who holds the position of Minister of Tourism and Antiquities in Bishr Al-Khasawneh's government.",
-              "links": [
-                {
-                  "text": "Bishr Al-Khasawneh",
-                  "type": "internal",
-                  "page": "Bisher Al-Khasawneh"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Nayef Himiedi Al-Fayez"
-                ]
-              }
-            },
-            {
-              "text": "He assumed the position on October 12, 2020, succeeding Majd Shweikeh.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Majd Shweikeh"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Jordanian politician",
-          "template": "short description"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Nayef Himiedi Al-Fayez"
-          },
-          "office": {
-            "text": "Minister of Tourism and Antiquities"
-          },
-          "term_start": {
-            "text": "2012",
-            "number": 2012
-          },
-          "office2": {
-            "text": "Minister of Environment"
-          },
-          "term_start2": {
-            "text": "2018",
-            "number": 2018
-          },
-          "office3": {
-            "text": "Minister of Tourism and Antiquities"
-          },
-          "term_start3": {
-            "text": "2020",
-            "number": 2020
-          },
-          "office1": {
-            "text": "Minister of Tourism and Antiquities and Minister of Environment"
-          },
-          "term_start1": {
-            "text": "2012",
-            "number": 2012
-          },
-          "termend": {
-            "text": "2012",
-            "number": 2012
-          },
-          "termend1": {
-            "text": "2013",
-            "number": 2013
-          },
-          "termend2": {
-            "text": "2020",
-            "number": 2020
-          },
-          "education": {
-            "text": "Brigham Young University (M.A International Relations)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Brigham Young University"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "🇯🇴 Jordan",
-            "links": [
-              {
-                "text": "Jordan",
-                "type": "internal",
-                "page": "jordan"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Nayef Himiedi Al-Fayez",
+  "office": "Minister of Tourism and Antiquities",
+  "term_start": "2012",
+  "office2": "Minister of Environment",
+  "term_start2": "2018",
+  "office3": "Minister of Tourism and Antiquities",
+  "term_start3": "2020",
+  "office1": "Minister of Tourism and Antiquities and Minister of Environment",
+  "term_start1": "2012",
+  "termend": "2012",
+  "termend1": "2013",
+  "termend2": "2020",
+  "education": "Brigham Young University (M.A International Relations)",
+  "nationality": "🇯🇴 Jordan"
 }
