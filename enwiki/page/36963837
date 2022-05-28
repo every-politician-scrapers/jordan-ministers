@@ -90,6 +90,10 @@
       ],
       "templates": [
         {
+          "description": "Led by the Prime Minister who is appointed by the King",
+          "template": "short description"
+        },
+        {
           "template": "politics of jordan"
         }
       ]
