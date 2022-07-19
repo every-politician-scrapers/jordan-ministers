@@ -1,0 +1,147 @@
+{
+  "title": "Yousef Shawarbeh",
+  "pageID": 59470944,
+  "categories": [
+    "Mayors of Amman",
+    "Year of birth missing (living people)",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Yousef Shawarbeh is the 40th and current mayor of Amman, Jordan.",
+              "links": [
+                {
+                  "text": "40th",
+                  "type": "internal",
+                  "page": "List of mayors of Amman"
+                },
+                {
+                  "type": "internal",
+                  "page": "Amman"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jordan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Yousef Shawarbeh"
+                ]
+              }
+            },
+            {
+              "text": "A lawyer by training, he was appointed in August 2017."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Mayor of Amman, Jordan",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Yousef Shawarbeh"
+          },
+          "office1": {
+            "text": "Mayor of Amman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amman"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "August, 2017"
+          },
+          "office2": {
+            "text": "Deputy Mayor of Amman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amman"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2013",
+            "number": 2013
+          },
+          "term_end2": {
+            "text": "2016",
+            "number": 2016
+          },
+          "office3": {
+            "text": "Minister of Political Development and Parliamentary Affairs"
+          },
+          "term_start3": {
+            "text": "2016",
+            "number": 2016
+          },
+          "term_end3": {
+            "text": "2016",
+            "number": 2016
+          },
+          "office4": {
+            "text": "Chairman of Amman Municipal Committee",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amman Municipal Committee"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "March, 2017"
+          },
+          "term_end4": {
+            "text": "August, 2017"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.jordantimes.com/news/local/new-amman-mayor-pledges-fair-and-responsible%E2%80%99-governance",
+          "title": "New Amman mayor pledges ‘fair and responsible’ governance",
+          "date": "2017-08-21",
+          "website": "Jordan Times",
+          "language": "en",
+          "access-date": "2018-12-23",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://globalparliamentofmayors.org/new-member-yousef-al-shawarbeh-amman-jordan/",
+          "title": "New Member: Yousef Al-Shawarbeh - Amman, Jordan",
+          "last": "globa0yvjsy",
+          "date": "2018-06-08",
+          "website": "Global Parliament of Mayors",
+          "language": "en-US",
+          "access-date": "2018-12-23",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "jordan-politician-stub"
+        }
+      ]
+    }
+  ]
+}
